@@ -7,7 +7,7 @@ nav_order: 10
 
 ## Resources
 
-- https://Taguette.org & GitHub repository
+- https://www.insta360.com/ & GitHub repository
 - Video tutorials?
 - Other tutorials?
 
