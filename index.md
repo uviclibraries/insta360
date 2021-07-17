@@ -5,32 +5,30 @@ nav_order: 1
 ---
 <img src="images/taguette-logo.png" style="float:right;width:180px;height:180px;">
 
-# Taguette: Qualitative Coding & Analysis Workshop
+# Introduction to the 360 Camera 
 
 - Pre-workshop activities: 20 min 
 - Introductory presentation: 10 min
 - Hands-on activities: 50-70 min
 
-## Why Taguette? 
+## Why Insta 360? 
 
-[Taguette](https://taguette.org/) is a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
+Before any UVic students, faculty, or staff with a valid UVic OneCard can borrow a 360 camera from the library, they need to successfully complete this workshop and pass the quiz at the end of this workshop with a 100% grade. We have made this workshop a prerequisite for borrowing our 360 cameras for two reasons:
 
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software). 
-
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
-
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
+       1. Our first 360 camera was damaged and is now unusable because of improper care of the dual camera lenses.
+       2. Borrowers frequently have problems using basic 360 camera functionality and desirable.
 
 ## Learning objectives
 
 At the end of this workshop, you will be able to:
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. Use Taguette on either their personal computer or on a cloud-based server
-3. Will have coded at least two texts of their choosing (interviews, speeches, lectures, announcements, etc.) using techniques covered in the workshop
-4. Will have research materials with codes and have exported them
-5. Created a basic analysis of coded data in Excel
- 
+1. Record video with the Insta360 on a tripod and selfie stick
+2. Record still images with the Insta360 on a tripod and selfie stick
+3. Transfer videos and images to a smartphone for editing
+4. Edit video in the Insta360 iOS & Android software, including:
+    - Trimming video Keyframes for orienting the default view for the 360 video
+    - Select and track objects in the 360 video
+    - Cover up tripod mount in Insta360 software
+9. Learn how to protect the Insta360 lenses from being scratched, see what video from a scratched lens looks like, & know how much it costs to replace a scratched lens
+
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
