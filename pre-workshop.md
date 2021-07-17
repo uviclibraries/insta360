@@ -13,6 +13,6 @@ This workshop is primarily hands-on practice using a 360 camera and editing soft
 -Examples of different types of 360 videos & still shots (11 min) - [360 video shots]
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=4dvZoSX9hiw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Review the slides:(https://bit.ly/3hGqeW4){:target="_blank"} slide deck before you start working on the workshop's hands-on activities (5 min)
+Review the slides:[360 Introduction Slides](https://docs.google.com/presentation/d/1hTJ6d-NyfBDggBjsLrKXD6X9Ka-Mkjuz-YY1hc2MBkw/){:target="_blank"} slide deck before you start working on the workshop's hands-on activities (5 min)
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
