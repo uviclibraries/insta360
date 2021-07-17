@@ -7,7 +7,7 @@ nav_order: 10
 
 ## Resources
 
-- https://www.insta360.com/ & GitHub repository
+- [Insta 360](https://www.insta360.com/){:target="_blank"}  & GitHub repository
 - Video tutorials?
 - Other tutorials?
 
