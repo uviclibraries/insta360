@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="images/taguette-logo.png" style="float:right;width:180px;height:180px;">
+<img src="Insta.01" style="float:right;width:180px;height:180px;">
 
 # Introduction to the 360 Camera 
 
