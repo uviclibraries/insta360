@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="Insta.0.png"
+<img src="Insta.0.png"> 
 
 # Introduction to the 360 Camera 
 
