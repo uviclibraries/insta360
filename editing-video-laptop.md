@@ -39,7 +39,7 @@ _Note: make sure to select your device in the left side bar, then you can downlo
   - Select the timeshift icon and click on the desired speed (for example: 2x)
   - Next, drag from start to finish on where this speed change will occur.
  
-_Note: there can be multiple speed changes in one video footage (you can do slow motions and moving time lapses. _
+_Note: there can be multiple speed changes in one video footage (you can do slow motions and moving time lapses_.
 
 **8. Deep track**
   - Click on the deep tracking icon
