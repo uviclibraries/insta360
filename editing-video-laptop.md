@@ -4,7 +4,7 @@ title: Editing Video on your Laptop
 nav_order: 3
 parent: Workshop Activities
 ---
-<img src="images/insta-01.png" style="float:right;width:180px;height:180px;">
+<img src="images/insta-01.png">
 
 # Insta 360 Video Editing (Laptop)
 In this exercise, you will practice video editing Insta 360 footage 
