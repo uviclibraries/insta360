@@ -27,3 +27,4 @@ _Note: make sure there is no orange colour showing as that means it isn’t prop
 _Note the monopod will disappear once you do your editing and stitch it all together._
 
 Great work!
+[NEXT STEP: Editing Video using Laptop](editing-video-laptop.html){: .btn .btn-blue }
