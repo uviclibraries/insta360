@@ -20,7 +20,7 @@ _Note: make sure there is no orange colour showing as that means it isn’t prop
    - Menu: for starting, recording or taking photos (large button)
    - LCD screen
 
-### 3.Format SD Card 
+### 3. Format SD Card 
    - Under settings, scroll sideways by clicking to find the circle with the exclamation mark and click about and format.
    - Play around with the diverse settings
 
