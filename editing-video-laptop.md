@@ -7,10 +7,11 @@ parent: Workshop Activities
 
 # Insta 360 Video Editing (Laptop)
 In this exercise, you will practice video editing Insta 360 footage 
-
-1. If you haven’t done so already, download the application. https://www.insta360.com/download/insta360-onex 
-_Note: make sure to select your device in the left side bar, then you can download the desktop application._
 <img src="images/insta-01.png">
+
+1. If you haven’t done so already, download the application. [download Insta 360 Studio here] (https://www.insta360.com/download/insta360-onex) 
+_Note: make sure to select your device in the left side bar, then you can download the desktop application._
+
 2. Open Insta360 Studio, and drag the video file to the left hand side where it says drag and drop footage here.
 
 3. In the view window (right hand side), you can play and preview the file using different angles (tiny planet, crystal ball, natural view, default and flat).
