@@ -5,7 +5,7 @@ nav_order: 3
 parent: Workshop Activities
 ---
 
-### Insta 360 Video Editing (Laptop)
+# Insta 360 Video Editing (Laptop)
 In this exercise, you will practice video editing Insta 360 footage 
 
 1. If you haven’t done so already, download the application. https://www.insta360.com/download/insta360-onex 
