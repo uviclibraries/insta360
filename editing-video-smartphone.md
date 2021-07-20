@@ -28,7 +28,7 @@ Note: you can only trim the start and end, not the middle nor joining pieces tog
 7. Once you have completed the trimming, click the **check mark** in the top right corner
 _Note: you can always make more changes later too and come back to this._
 
-8. **Functions **
+8. **Functions**
 - First icon is play/pause button
 - Next is the aspect ratio (adjust the size of your shot)
 - The dotted square is a screen capture
