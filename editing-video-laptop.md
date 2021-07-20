@@ -7,8 +7,9 @@ parent: Workshop Activities
 
 # Insta 360 Video Editing (Laptop)
 In this exercise, you will practice video editing Insta 360 footage 
+<img src="images/insta-01.png">
 
-1. If you haven’t done so already, download the application. https://www.insta360.com/download/insta360-onex 
+1. If you haven’t done so already, download the application. [Insta360 Studio Download](https://www.insta360.com/download/insta360-onex) 
 _Note: make sure to select your device in the left side bar, then you can download the desktop application._
 
 2. Open Insta360 Studio, and drag the video file to the left hand side where it says drag and drop footage here.
@@ -36,7 +37,8 @@ _Note: make sure to select your device in the left side bar, then you can downlo
 **7. Speed**
   - Select the timeshift icon and click on the desired speed (for example: 2x)
   - Next, drag from start to finish on where this speed change will occur.
-_Note: there can be multiple speed changes in one video footage (you can do slow motions and moving time lapses. _
+ 
+_Note: there can be multiple speed changes in one video footage (you can do slow motions and moving time lapses_.
 
 **8. Deep track**
   - Click on the deep tracking icon
@@ -57,8 +59,8 @@ _Note: there can be multiple speed changes in one video footage (you can do slow
 **References/other resources (with visuals):**
 
 Lesson Plans for video editing using Insta Studio (desktop software)
-https://www.insta360.com/support/supportcourse?post_id=11139 
-https://www.threesixtycameras.com/insta360-studio-2020-full-guide-tutorial-updated/ 
+[lesson plan example](https://www.insta360.com/support/supportcourse?post_id=11139)
+[lesson plan example](https://www.threesixtycameras.com/insta360-studio-2020-full-guide-tutorial-updated/)
 
 _Nice work!_
 
