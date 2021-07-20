@@ -9,4 +9,4 @@ This quiz is mandatory for anyone who wishes to borrow a 360 camera from the lib
 - Our first 360 camera was damaged and is now unusable because of improper care of the dual camera lenses.
 - Borrowers frequently have problems using basic 360 camera functionality and desirable.
 
-[Quiz](https://forms.gle/cUx5CF7t7HxjhYsZA)
+Take the quiz now: [Quiz](https://forms.gle/cUx5CF7t7HxjhYsZA)
