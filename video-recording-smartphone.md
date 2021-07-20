@@ -11,7 +11,7 @@ If you haven’t done so already, download the application. [Insta360 ONE X Down
 
 _Note: make sure to select your device in the left side bar, then you can download the phone application._
 
-Video: <iframe width="560" height="315" src="https://www.youtube.com/embed/8ZPmzuT46UU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8ZPmzuT46UU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Power on your 360 camera by pressing down on the bottom button (the display will turn on and become visible)
 
