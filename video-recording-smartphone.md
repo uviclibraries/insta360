@@ -7,8 +7,9 @@ parent: Workshop Activities
 
 # Video recording with the smartphone app on a tripod & selfie stick
 
-If you haven’t done so already, download the application. [Insta360 download](https://www.insta360.com/download/insta360-onex)
-Note: make sure to select your device in the left side bar, then you can download the phone application. 
+If you haven’t done so already, download the application. [Insta360 Download Here](https://www.insta360.com/download/insta360-onex)
+
+_Note: make sure to select your device in the left side bar, then you can download the phone application. _
 
 Video: <iframe width="560" height="315" src="https://www.youtube.com/embed/8ZPmzuT46UU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
