@@ -1,6 +1,6 @@
 ---
 layout: default
-title: quiz
+title: Quiz
 nav_order: 4
 has_children: true
 has_toc: true
