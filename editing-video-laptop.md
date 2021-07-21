@@ -9,7 +9,7 @@ parent: Workshop Activities
 In this exercise, you will practice video editing Insta 360 footage 
 <img src="images/insta-01.png">
 
-1. If you haven’t done so already, download the application. [Insta360 Studio Download](https://www.insta360.com/download/insta360-onex) 
+1. If you haven’t done so already, download the application. [Insta360 Studio Download](https://www.insta360.com/download/insta360-onex){:target="_blank"} 
 _Note: make sure to select your device in the left side bar, then you can download the desktop application._
 
 2. Open Insta360 Studio, and drag the video file to the left hand side where it says drag and drop footage here.
