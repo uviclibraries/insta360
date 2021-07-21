@@ -11,7 +11,7 @@ In this exercise, you will practice video editing Insta 360 footage using the ap
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QkREm-78Ofo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-If you haven’t done so already, download the application[Insta360 Camera Control App](https://www.insta360.com/download/insta360-onex)
+If you haven’t done so already, download the application [Insta360 Camera Control App](https://www.insta360.com/download/insta360-onex){:target="_blank"}
 Note: make sure to select your device in the left side bar, then you can download the phone application
 
 1. Open the app and connect the camera 
