@@ -59,8 +59,8 @@ _Note: there can be multiple speed changes in one video footage (you can do slow
 **References/other resources (with visuals):**
 
 Lesson Plans for video editing using Insta Studio (desktop software)
-[lesson plan example](https://www.insta360.com/support/supportcourse?post_id=11139)
-[lesson plan example](https://www.threesixtycameras.com/insta360-studio-2020-full-guide-tutorial-updated/)
+[lesson plan example 1](https://www.insta360.com/support/supportcourse?post_id=11139){:target="_blank"}
+[lesson plan example 2](https://www.threesixtycameras.com/insta360-studio-2020-full-guide-tutorial-updated/){:target="_blank"}
 
 _Nice work!_
 
