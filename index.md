@@ -15,9 +15,9 @@ nav_order: 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KUcSQDVtbO4" title="UVic Libraries 360 Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Using the Insta 360 for still shots can help you create a "choose your own adventure" 360-tour, similar to this [short tour of the Digital Scholarship Commons](https://msystems.net/dsc/){:target="_blank"} space in the library. 
+Using the Insta 360 for still shots can help you create a "choose your own adventure" 360-tour, similar to this [short tour of the Digital Scholarship Commons](https://msystems.net/dsc/){:target="_blank"} space in the library. This workshop will help you develop the skills you need to create 360 videos and take 360 still shots without damaging the lenses of the camera.
 
-Before any UVic students, faculty, or staff with a valid UVic OneCard can borrow a 360 camera from the library, they need to successfully complete this workshop and pass the quiz at the end of this workshop with a 100% grade. We have made this workshop a prerequisite for borrowing our 360 cameras for two reasons:
+**Before any UVic students, faculty, or staff with a valid UVic OneCard can borrow a 360 camera from the library, they need to successfully complete this workshop and pass the quiz at the end of this workshop with a 100% grade.** We have made this workshop a prerequisite for borrowing our 360 cameras for two reasons:
 
        1. Our first 360 camera was damaged and is now unusable 
           because of improper care of the dual camera lenses.
@@ -35,6 +35,6 @@ At the end of this workshop, you will be able to:
     - Trimming video Keyframes for orienting the default view for the 360 video
     - Select and track objects in the 360 video
     - Cover up tripod mount in Insta360 software
-9. Learn how to protect the Insta360 lenses from being scratched, see what video from a scratched lens looks like, & know how much it costs to replace a scratched lens
+9. **Learn how to protect the Insta360 lenses from being scratched**, see what video from a scratched lens looks like, & know how much it costs to replace a scratched lens
 
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
