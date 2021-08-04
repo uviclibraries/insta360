@@ -15,7 +15,7 @@ nav_order: 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KUcSQDVtbO4" title="UVic Libraries 360 Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Using the Insta 360 for still shots can help you create a "choose your own adventure" 360-tour, similar to this [short tour of the Digital Scholarship Commons](https://msystems.net/dsc/){:target="_blank"} space in the library. This workshop will help you develop the skills you need to create 360 videos and take 360 still shots without damaging the lenses of the camera.
+Using the Insta 360 for still shots can help you create a "choose your own adventure" 360-tour, similar to this short tour of the [Digital Scholarship Commons space in the library](https://msystems.net/dsc/){:target="_blank"}. This workshop will help you develop the skills you need to create 360 videos and take 360 still shots without damaging the lenses of the camera.
 
 **Before any UVic students, faculty, or staff with a valid UVic OneCard can borrow a 360 camera from the library, they need to successfully complete this workshop and pass the quiz at the end of this workshop with a 100% grade.** We have made this workshop a prerequisite for borrowing our 360 cameras for two reasons:
 
