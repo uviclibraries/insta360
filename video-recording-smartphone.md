@@ -6,13 +6,13 @@ parent: Workshop Activities
 ---
 
 # Video recording with the smartphone app on a tripod & selfie stick
-<img src="images/insta-02.png">
+**Brittany: float image to right?** <img src="images/insta-02.png">
 
 If you haven’t done so already, download the application. [Insta360 ONE X Download](https://www.insta360.com/download/insta360-onex){:target="_blank"}. Make sure you select your desired device (IOS, Android). This is a camera control application, the editing application is a seperate download. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8ZPmzuT46UU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. Power on your 360 camera by pressing down on the bottom button (the display will turn on and become visible)
+1. **Brittany: include images to help the learner...**<br>Power on your 360 camera by pressing down on the bottom button (the display will turn on and become visible) 
 
 2. Download and then connect your camera to the application following the prompts.                                                                    - Connect to the Wifi: IOS devices go to setting and select the cameras wifi (One X... for instance).
 3. Open The app and select the camera settings by clicking on the bottom center camera icon (in yellow). 
