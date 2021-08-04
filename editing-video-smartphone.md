@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Editing Video with Smartphone App
+title: 5 - Editing Video with Smartphone App
 nav_order: 5
 parent: Workshop Activities
 ---
@@ -13,6 +13,8 @@ In this exercise, you will practice video editing Insta 360 footage using the ap
 
 If you haven’t done so already, download the application [Insta360 Camera Control App](https://www.insta360.com/download/insta360-onex){:target="_blank"}
 Note: make sure to select your device in the left side bar, then you can download the phone application
+
+**Brittany: Some images to help learners?**
 
 1. Open the app and connect the camera 
 2. Download clip and select **album** on the lower bar
