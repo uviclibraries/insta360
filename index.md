@@ -15,8 +15,10 @@ nav_order: 1
 
 Before any UVic students, faculty, or staff with a valid UVic OneCard can borrow a 360 camera from the library, they need to successfully complete this workshop and pass the quiz at the end of this workshop with a 100% grade. We have made this workshop a prerequisite for borrowing our 360 cameras for two reasons:
 
-       1. Our first 360 camera was damaged and is now unusable because of improper care of the dual camera lenses.
-       2. Borrowers frequently have problems using basic 360 camera functionality and desirable.
+       1. Our first 360 camera was damaged and is now unusable 
+          because of improper care of the dual camera lenses.
+       2. Borrowers frequently have problems using basic 360 
+          camera functionality and desirable.
 
 ## Learning objectives
 
