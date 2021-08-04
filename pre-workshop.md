@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Pre-Workshp Activities
+title: 1- Workshp Activities
 nav_order: 2
+parent: Workshop Activities
 ---
 ## Pre-Workshop Videos & Activities
 360 Cameras are amazing tools that can help us tell stories or share experiences in much more immersive and potentially impactful ways. 
@@ -15,4 +16,4 @@ This workshop is primarily hands-on practice using a 360 camera and editing soft
 
 Review the slides: [360 Introduction Slides](https://docs.google.com/presentation/d/1hTJ6d-NyfBDggBjsLrKXD6X9Ka-Mkjuz-YY1hc2MBkw/){:target="_blank"} slide deck before you start working on the workshop's hands-on activities (5 min)
 
-[NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
+[NEXT STEP: Video Recording](video-recording.html){: .btn .btn-blue }
