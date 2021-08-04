@@ -7,12 +7,15 @@ nav_order: 1
 
 # Introduction to the 360 Camera 
 
-- Pre-workshop activities: 20 min 
-- Hands-on activities: 50-70 min
+- Hands-on activities: 60-70 min
 
 ## Why Insta 360? 
 
-Put some text in here about how 360 cameras can be useful: 360 tours with a series of 360 stil shots; 360 videos for an immersive experience with VR googles; distribution of video on YouTube...
+360 cameras are amazing tools that can create immersive still shots and videos that can be used for a variety of purposes. For example 360 videos can help you create an immersive tour of a location or event that you can quickly make available to the world on YouTube to be viewed in a web browser or VR goggles! Here's an example of the UVic Libraries tour with a 360 video. Make sure you click and drag around the video to "look around":
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KUcSQDVtbO4" title="UVic Libraries 360 Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Using the Insta 360 for still shots can help you create a "choose your own adventure" 360-tour, similar to this [short tour of the Digital Scholarship Commons](https://msystems.net/dsc/){:target="_blank"} space in the library. 
 
 Before any UVic students, faculty, or staff with a valid UVic OneCard can borrow a 360 camera from the library, they need to successfully complete this workshop and pass the quiz at the end of this workshop with a 100% grade. We have made this workshop a prerequisite for borrowing our 360 cameras for two reasons:
 
