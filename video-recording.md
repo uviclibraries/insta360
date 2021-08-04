@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Video Recording
+title: 2 - Video Recording
 nav_order: 2
 parent: Workshop Activities
 ---
