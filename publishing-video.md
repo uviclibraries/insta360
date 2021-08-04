@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Publishing Video 
+title: 6 - Publishing Video 
 nav_order: 6
 parent: Workshop Activities
 ---
 # Exporting and Publishing your 360 Video
 _Note: Local is where your edits are and camera is the original footage_
+
+**Brittany: Please add some images to help learners...**
 
 1. Exporting
 - Select the footage you wish to export (probably under local as that is where the edited footage is located).
