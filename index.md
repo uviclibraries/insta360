@@ -8,10 +8,11 @@ nav_order: 1
 # Introduction to the 360 Camera 
 
 - Pre-workshop activities: 20 min 
-- Introductory presentation: 10 min
 - Hands-on activities: 50-70 min
 
 ## Why Insta 360? 
+
+Put some text in here about how 360 cameras can be useful: 360 tours with a series of 360 stil shots; 360 videos for an immersive experience with VR googles; distribution of video on YouTube...
 
 Before any UVic students, faculty, or staff with a valid UVic OneCard can borrow a 360 camera from the library, they need to successfully complete this workshop and pass the quiz at the end of this workshop with a 100% grade. We have made this workshop a prerequisite for borrowing our 360 cameras for two reasons:
 
