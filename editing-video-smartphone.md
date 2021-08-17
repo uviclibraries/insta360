@@ -4,7 +4,7 @@ title: 5 - Editing Video with Smartphone App
 nav_order: 5
 parent: Workshop Activities
 ---
-<img src="images/insta-03.png" style="float:right">
+<img src="images/insta-03.png">
 
 # Insta 360 Video Editing (Phone Application)
 In this exercise, you will practice video editing Insta 360 footage using the application (phone software) Insta 360 One X 
