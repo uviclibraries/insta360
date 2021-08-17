@@ -17,6 +17,6 @@ This workshop is primarily hands-on practice using a 360 camera and editing soft
 - **Review the follwing important slides on the proper care of 360 cameras**: [360 Introduction Slides](https://docs.google.com/presentation/d/1hTJ6d-NyfBDggBjsLrKXD6X9Ka-Mkjuz-YY1hc2MBkw/){:target="_blank"} slide deck before you start working on the workshop's hands-on activities (5 min)
 
 - Download the application. [Insta360 Studio Download](https://www.insta360.com/download/insta360-onex){:target="_blank"} 
-- Download 
+- Download [Insta360 Camera Control App](https://www.insta360.com/download/insta360-onex){:target="_blank"}
 
 [NEXT STEP: Video Recording](video-recording.html){: .btn .btn-blue }
