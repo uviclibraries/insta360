@@ -15,7 +15,7 @@ _Note: make sure there is no orange colour showing as that means it isn’t prop
    - Cleaning (wiping the lens): make sure to use the provided cloth
 
 ### 2. Video Recording
-   - On/Off and changing between video, photos and settings. (small button): scroll by clicking the button to switch between video, photo or settings. (all changes are down in settings and visible on LCD screen). 
+   - On/Off and changing between video, photos and settings. (small button): scroll by clicking the button to switch between video, photo or settings. (all changes are down in settings and visible on LCD screen). HOLD for 3 seconds to power on and off. 
    - Modify FPS (Frame Per Seconds), the ISO, shutter
    - Menu: for starting/ending, selecting, recording or taking photos (large button)
    - LCD screen
