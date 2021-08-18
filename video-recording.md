@@ -18,7 +18,7 @@ _Note: make sure there is no orange colour showing as that means it isn’t prop
 ### 2. Taking a Picture and Video Recording
    - When turning on your Insta360, it will open to the picture setting. To take a picture click the big button. 
    - To switch to video, click on the little button. 
-   - 
+   
 ### 3. Buttons and Settings 
    - On/Off and changing between video, photos and settings. (small button): scroll by clicking the button to switch between video, photo or settings. (All changes are in settings and visible on LCD screen). HOLD for 3 seconds to power on and off. 
    - To switch to settings, click the little button 3 times in a row. Once you see the settings icon. Click the big button to select it
