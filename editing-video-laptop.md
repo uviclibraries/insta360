@@ -7,14 +7,14 @@ parent: Workshop Activities
 <img src="images/insta-01.png" style="float:right">
 # Insta 360 Video Editing (Laptop)
 In this exercise, you will practice video editing Insta 360 footage
-
-1. <img src="images/insta-video-editing-01.png" style="float:right;height:180px;">> If you haven’t done so already, download the application. [Insta360 Studio Download](https://www.insta360.com/download/insta360-onex){:target="_blank"} 
+<img src="images/insta-video-editing-01.png" style="float:right;height:180px;">
+1. If you haven’t done so already, download the application. [Insta360 Studio Download](https://www.insta360.com/download/insta360-onex){:target="_blank"} 
 _Note: make sure to select your device in the left side bar, then you can download the desktop application._
 2. Open Insta360 Studio, and drag the video file to the left hand side where it says drag and drop footage here.
+<img src="images/insta-video-editing-02.png" style="float:right;width:140px;height:140px;">
+3. In the view window (bottom left hand side of video screen), you can play and preview the file using different angles (tiny planet, crystal ball, natural view, default and flat).
 
-3.<img src="images/insta-video-editing-02.png" style="float:right;width:150px;height:150px;"> In the view window (bottom left hand side of video screen), you can play and preview the file using different angles (tiny planet, crystal ball, natural view, default and flat).
-
-**4. <img src="images/insta-video-editing-03.png" style="float:right;width:150px;height:150px;">Free capture edit**
+**4. <img src="images/insta-video-editing-03.png" style="float:right">Free capture edit**
   - Select the start and end of the footage by dragging the ends to the desired cut.
   - On the top middle bar, select Free Capture (this will show the video as a normal video: not 360 with the ability to control the angles (reframing)
 <img src="images/insta-video-editing-04.png">
@@ -24,20 +24,20 @@ _Note: make sure to select your device in the left side bar, then you can downlo
   - Timeshift: speeds up footage and Motion blur: available when timeshift is selected. 
 
 **5. Reframing**
-<img src="images/insta-video-editing-05.png" style="float:right;width:150px;height:150px;">
+<img src="images/insta-video-editing-05.png" style="float:right">
   - Scrub through the video and on the preview screen drag to where you want the view.
   - When the point has been chosen, click the keyframes 
- <img src="images/insta-video-editing-06.png" style="float:right;width:150px;height:150px;">
+ <img src="images/insta-video-editing-06.png" style="float:right">
   - Make sure to go through the whole clip and select the direction of the clip as it will move to that angle.
   - Play and watch to see how the keyframes look
 
 **6. Transitions between Keyframes**
-<img src="images/insta-video-editing-07.png" style="float:right;width:150px;height:150px;">
+<img src="images/insta-video-editing-07.png" style="float:right">
   - Click on the lines that join the keyframes, which will open the transitions settings on the bottom left side.
   - Try out various transitions.
 
 **7. Speed**
-<img src="images/insta-video-editing-08.png" style="float:right;width:150px;height:150px;">
+<img src="images/insta-video-editing-08.png" style="float:right">
   - Select the timeshift icon and click on the desired speed (for example: 2x)
   - Next, drag from start to finish on where this speed change will occur.
 _Note: there can be multiple speed changes in one video footage (you can do slow motions and moving time lapses_.
@@ -47,7 +47,7 @@ _Note: there can be multiple speed changes in one video footage (you can do slow
   - Drag your mouse to the object you want to follow
 
 **9. Video Options:** are located on the right hand side of the Software panel
-<img src="images/insta-video-editing-09.png" style="float:right;width:150px;height:150px;">
+<img src="images/insta-video-editing-09.png" style="float:right">
   - Flowstate stabilization: it is best to leave it on in most cases as it makes the video smooth, for this workshop leave the default but know you can change these settings.
   - Direction lock: is useful in order to have the video follow the direction the camera
   - Stitching: only applicable if you are using accessories (lens guard, waterproof case)
