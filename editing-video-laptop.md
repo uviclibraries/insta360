@@ -7,25 +7,25 @@ parent: Workshop Activities
 <img src="images/insta-01.png" style="float:right">
 # Insta 360 Video Editing (Laptop)
 In this exercise, you will practice video editing Insta 360 footage
-<img src="images/insta-video-editing-01.png" style="float:right;height:160px;">
+<img src="images/insta-video-editing-01.png" style="float:right;height:150px;">
 1. If you haven’t done so already, download the application. [Insta360 Studio Download](https://www.insta360.com/download/insta360-onex){:target="_blank"} 
 _Note: make sure to select your device in the left side bar, then you can download the desktop application._
 2. Open Insta360 Studio, and drag the video file to the left hand side where it says drag and drop footage here.
 <img src="images/insta-video-editing-02.png" style="float:right;width:140px;height:140px;">
 3. In the view window (bottom left hand side of video screen), you can play and preview the file using different angles (tiny planet, crystal ball, natural view, default and flat).
 
-**4. Free capture edit**
-<img src="images/insta-video-editing-03.png">
+**4. Free capture edit**<br>
+<img src="images/insta-video-editing-03.png"><br>
   - Select the start and end of the footage by dragging the ends to the desired cut.
-  - On the top middle bar, select Free Capture (this will show the video as a normal video: not 360 with the ability to control the angles (reframing)
-<img src="images/insta-video-editing-04.png">
+  - On the top middle bar, select Free Capture (this will show the video as a normal video: not 360 with the ability to control the angles (reframing)<br>
+<img src="images/insta-video-editing-04.png"><br>
   - The first icon is the keyframe. Use keyframes to modify the angle and direction the camera is looking. Do this by dragging and scrolling or by manually setting angle parameters (bottom left side). 
   - The next is delete keyframe.
   - Deep track: tracks a moving object as long as it is visible
   - Timeshift: speeds up footage and Motion blur: available when timeshift is selected. 
 
 **5. Reframing**
-<img src="images/insta-video-editing-05.png" style="float:right">
+<img src="images/insta-video-editing-05.png" style="float:right;width:150px;height:150px;">
   - Scrub through the video and on the preview screen drag to where you want the view.
   - When the point has been chosen, click the keyframes 
  <img src="images/insta-video-editing-06.png" style="float:right">
