@@ -12,9 +12,9 @@ In this exercise, you will practice video editing Insta 360 footage
 1. If you haven’t done so already, download the application. [Insta360 Studio Download](https://www.insta360.com/download/insta360-onex){:target="_blank"} 
 _Note: make sure to select your device in the left side bar, then you can download the desktop application._
 
-2. **Brittany: please add some screen shots to illustrate what the learner needs to do for this activity**<br>Open Insta360 Studio, and drag the video file to the left hand side where it says drag and drop footage here. ADD IMAGE HERE
+2. Open Insta360 Studio, and drag the video file to the left hand side where it says drag and drop footage here. <img src="images/insta-video-editing-01.png" style="float:right">
 
-3. In the view window (bottom left hand side of video screen), you can play and preview the file using different angles (tiny planet, crystal ball, natural view, default and flat). ADD IMAGE HERE 
+3. In the view window (bottom left hand side of video screen), you can play and preview the file using different angles (tiny planet, crystal ball, natural view, default and flat). <img src="images/insta-video-editing-02.png" style="float:right">
 
 **4. Free capture edit**
   - Select the start and end of the footage by dragging the ends to the desired cut.
