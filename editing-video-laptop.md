@@ -7,14 +7,15 @@ parent: Workshop Activities
 <img src="images/insta-01.png" style="float:right">
 # Insta 360 Video Editing (Laptop)
 In this exercise, you will practice video editing Insta 360 footage
-<img src="images/insta-video-editing-01.png" style="float:right;height:180px;">
+<img src="images/insta-video-editing-01.png" style="float:right;height:160px;">
 1. If you haven’t done so already, download the application. [Insta360 Studio Download](https://www.insta360.com/download/insta360-onex){:target="_blank"} 
 _Note: make sure to select your device in the left side bar, then you can download the desktop application._
 2. Open Insta360 Studio, and drag the video file to the left hand side where it says drag and drop footage here.
 <img src="images/insta-video-editing-02.png" style="float:right;width:140px;height:140px;">
 3. In the view window (bottom left hand side of video screen), you can play and preview the file using different angles (tiny planet, crystal ball, natural view, default and flat).
 
-**4. <img src="images/insta-video-editing-03.png" style="float:right">Free capture edit**
+**4. Free capture edit**
+<img src="images/insta-video-editing-03.png">
   - Select the start and end of the footage by dragging the ends to the desired cut.
   - On the top middle bar, select Free Capture (this will show the video as a normal video: not 360 with the ability to control the angles (reframing)
 <img src="images/insta-video-editing-04.png">
