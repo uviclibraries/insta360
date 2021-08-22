@@ -14,7 +14,7 @@ _Note: make sure to select your device in the left side bar, then you can downlo
 3. <img src="images/insta-video-editing-02.png" style="float:right;width:130px;height:130px;" alt="view window"> In the view window (bottom left hand side of video screen), you can play and preview the file using different angles (tiny planet, crystal ball, natural view, default and flat).
 
 **4. Free capture edit**<br>
-<img src="images/insta-video-editing-03.png" alt=free capture icon"><br>
+<img src="images/insta-video-editing-03.png" alt="free capture icon"><br>
   - Select the start and end of the footage by dragging the ends to the desired cut.
   - On the top middle bar, select Free Capture (this will show the video as a normal video: not 360 with the ability to control the angles (reframing)<br>
 <img src="images/insta-video-editing-04.png" alt="all icons"><br>
