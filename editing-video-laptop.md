@@ -29,9 +29,8 @@ _Note: make sure to select your device in the left side bar, then you can downlo
   - When the point has been chosen, click the keyframes 
   - Make sure to go through the whole clip and select the direction of the clip as it will move to that angle.
   - Play and watch to see how the keyframes look
-
+<img src="images/insta-video-editing-07.png" style="float:right;height:140px;">
 **6. Transitions between Keyframes**
-<img src="images/insta-video-editing-07.png" style="float:right;height:180px;">
   - Click on the lines that join the keyframes, which will open the transitions settings on the bottom left side.
   - Try out various transitions.
 
