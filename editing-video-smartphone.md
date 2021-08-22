@@ -63,7 +63,9 @@ _Note rotating your body will show the whole 360 view_
 14. The 3 dots on the top right hand side, has additional options. Note: direction lock will remove all pivot points. You can reset your edits here as well. For this workshop, you do not have to change these, just know there are various settings. 
 
 15. Exporting (icon with a square and an arrow facing diagonally beside the edit icon).
-Save to camera roll or upload to desired platform 
+- Select the footage you wish to export (probably under local as that is where the edited footage is located).
+- Click the square with the arrow pointing towards the corner (third icon on the top). This is your exporting button. 
+- You can save to your camera roll by clicking album or to the desired platform (Community, Facebook, Instagram, Youtube, Street View, Messenger, Twitter, Link) you wish to share your video with. 
 
 _Nice job!_
 
