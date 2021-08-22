@@ -35,8 +35,7 @@ _Note: make sure to select your device in the left side bar, then you can downlo
   - Try out various transitions.
 
 **7. Speed**
-  - Select the timeshift icon and click on the desired speed (for example: 2x)
- <img src="images/insta-video-editing-08.png" style="float:right">
+  - Select the timeshift icon and click on the desired speed (for example: 2x) <img src="images/insta-video-editing-08.png" style="float:right">
   - Next, drag from start to finish on where this speed change will occur.
 _Note: there can be multiple speed changes in one video footage (you can do slow motions and moving time lapses_.
 
