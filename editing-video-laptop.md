@@ -29,14 +29,14 @@ _Note: make sure to select your device in the left side bar, then you can downlo
   - When the point has been chosen, click the keyframes 
   - Make sure to go through the whole clip and select the direction of the clip as it will move to that angle.
   - Play and watch to see how the keyframes look
-<img src="images/insta-video-editing-07.png" style="float:right;height:140px;">
-**6. Transitions between Keyframes**
+
+**6. Transitions between Keyframes** <img src="images/insta-video-editing-07.png" style="float:right;height:140px;">
   - Click on the lines that join the keyframes, which will open the transitions settings on the bottom left side.
   - Try out various transitions.
 
 **7. Speed**
-<img src="images/insta-video-editing-08.png" style="float:right">
   - Select the timeshift icon and click on the desired speed (for example: 2x)
+ <img src="images/insta-video-editing-08.png" style="float:right">
   - Next, drag from start to finish on where this speed change will occur.
 _Note: there can be multiple speed changes in one video footage (you can do slow motions and moving time lapses_.
 
