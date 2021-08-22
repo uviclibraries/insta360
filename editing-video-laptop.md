@@ -24,10 +24,9 @@ _Note: make sure to select your device in the left side bar, then you can downlo
   - Timeshift: speeds up footage and Motion blur: available when timeshift is selected. 
 
 **5. Reframing**
-<img src="images/insta-video-editing-05.png" style="float:right;width:140px;height:140px;">
+<img src="images/insta-video-editing-05.png" style="float:right;width:140px;height:140px;"> <img src="images/insta-video-editing-06.png" style="float:right;width:180px">
   - Scrub through the video and on the preview screen drag to where you want the view.
   - When the point has been chosen, click the keyframes 
- <img src="images/insta-video-editing-06.png" style="float:right;width:180px">
   - Make sure to go through the whole clip and select the direction of the clip as it will move to that angle.
   - Play and watch to see how the keyframes look
 
