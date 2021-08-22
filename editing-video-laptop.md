@@ -44,8 +44,8 @@ _Note: there can be multiple speed changes in one video footage (you can do slow
   - Drag your mouse to the object you want to follow
 
 **9. Video Options:** are located on the right hand side of the Software panel
-<img src="images/insta-video-editing-09.png" style="float:right">
   - Flowstate stabilization: it is best to leave it on in most cases as it makes the video smooth, for this workshop leave the default but know you can change these settings.
+ <img src="images/insta-video-editing-09.png" style="float:right"> 
   - Direction lock: is useful in order to have the video follow the direction the camera
   - Stitching: only applicable if you are using accessories (lens guard, waterproof case)
   - Select stitching calibration (both dynamic stitching and chromatic calibration) 
