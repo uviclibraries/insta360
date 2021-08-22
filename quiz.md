@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 7 - Mandatory Quiz
-nav_order: 7
+title: 6 - Mandatory Quiz
+nav_order: 6
 parent: Workshop Activities
 ---
 
