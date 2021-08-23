@@ -64,4 +64,5 @@ Lesson Plans for video editing using Insta Studio (desktop software)
 
 _Nice work!_
 
-[NEXT STEP: Video Recording with Smartphone](video-recording-smartphone.html){: .btn .btn-blue }
+[NEXT STEP: Video Recording with Smartphone](video-recording-smartphone.html){: .btn .btn-blue } or 
+[Go directly to the QUIZ](quiz.html){: .btn .btn-blue } as a Insta360 Camera is required for lessons 4-5
