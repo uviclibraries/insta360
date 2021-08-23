@@ -14,7 +14,8 @@ In this exercise, you will practice video editing Insta 360 footage using the ap
 If you haven’t done so already, download the application [Insta360 Camera Control App](https://www.insta360.com/download/insta360-onex){:target="_blank"}
 Note: make sure to select your device in the left side bar, then you can download the phone application
 
-**Brittany: Some images to help learners?**
+NOTE: The Insta360 Camera is required for this section.
+ <img src="images/insta-editing-phone-01.jpg" style="float:right;width:180px" alt="editing menus">
 
 1. Open the app and connect the camera 
 2. Download clip and select **album** on the lower bar
@@ -50,19 +51,19 @@ _Note: you can always make more changes later too and come back to this._
 - To zoom and go to tiny planet mode by moving the red button towards the right and back again (while still holding it) and moving your phone around. 
 _Note rotating your body will show the whole 360 view_
 
-11. Other options: main menu
+11. **Other options:** main menu
 - Effects: select a filter
 - Adjust: image control (contrast, colour, brightness, saturation)
 - Speed: select the speed in the bar and scroll the video to select where you want to apply this, then click the checkmark.
 - You must export it before being able to see the speed changes.
 
-12. Multiview icon (right hand side), you can select mixed views of your video.
+12. **Multiview icon** (right hand side), you can select mixed views of your video.
 
-13. Music (add music from itunes or preloaded music on the app). 
+13. **Music** (add music from itunes or preloaded music on the app). 
 
 14. The 3 dots on the top right hand side, has additional options. Note: direction lock will remove all pivot points. You can reset your edits here as well. For this workshop, you do not have to change these, just know there are various settings. 
 
-15. Exporting (icon with a square and an arrow facing diagonally beside the edit icon).
+15. **Exporting** (icon with a square and an arrow facing diagonally beside the edit icon).
 - Select the footage you wish to export (probably under local as that is where the edited footage is located).
 - Click the square with the arrow pointing towards the corner (third icon on the top). This is your exporting button. 
 - You can save to your camera roll by clicking album or to the desired platform (Community, Facebook, Instagram, Youtube, Street View, Messenger, Twitter, Link) you wish to share your video with. 
