@@ -36,9 +36,9 @@ _Note: you can always make more changes later too and come back to this._
 - The dotted square is a screen capture
 - Free capture (reframe the video)
 
-9. Move image: to change into tiny planet mode, pinch the image and to zoom in or out (move fingers out or in). To exit tiny planet mode, slide fingers out. This is important to remember as you cannot edit in tiny planet mode. Therefore, will have to zoom back to the standard mode
+9. **Move image:** to change into tiny planet mode, pinch the image and to zoom in or out (move fingers out or in). To exit tiny planet mode, slide fingers out. This is important to remember as you cannot edit in tiny planet mode. Therefore, will have to zoom back to the standard mode
 
-10. Free capture edit: Change the angle of the camera using pivot points
+10. **Free capture edit:** Change the angle of the camera using pivot points
 - Stop the video and press the free capture icon or hold the screen
 - On the pop-up screen, select **Pivot Point** 
 - Repeat by playing and pausing to get desired angles 
