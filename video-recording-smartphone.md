@@ -11,7 +11,7 @@ parent: Workshop Activities
 
 If you haven’t done so already, download the application. [Insta360 ONE X Download](https://www.insta360.com/download/insta360-onex){:target="_blank"}. Make sure you select your desired device (IOS, Android). This is a camera control application, the editing application is a seperate download. 
 
-When entering the app, there are various useful tutorials to help you also get started, here is one [example](http://onlinemanual.insta360.com/onex/en-us/startup/use?utm_source=app_onex&utm_medium=tutorial_page&utm_campaign=newusers_tutorial_en)
+When entering the app, there are various useful tutorials to help you also get started, here is one [example](http://onlinemanual.insta360.com/onex/en-us/startup/use?utm_source=app_onex&utm_medium=tutorial_page&utm_campaign=newusers_tutorial_en){:target="_blank"}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8ZPmzuT46UU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
