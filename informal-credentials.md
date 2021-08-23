@@ -11,7 +11,7 @@ DSC electronic badges are cryptographically signed and have the recipients email
 
 DSC badges are awarded at the request of workshop participants after a DSC staff member has verified that they have successfully completed one or more of the workshop hands-on workshop activities.
 
-### Earn an Informal Credential for Taguette
+### Earn an Informal Credential for INSTA 360 Camera
 
 - Criteria for the 360 Insta Camera here...
 
