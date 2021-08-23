@@ -15,7 +15,7 @@ If you haven’t done so already, download the application [Insta360 Camera Cont
 Note: make sure to select your device in the left side bar, then you can download the phone application
 
 NOTE: The Insta360 Camera is required for this section.
- <img src="images/insta-editing-phone-01.jpg" style="float:right;width:180px" alt="editing menus">
+ <img src="images/insta-editing-phone-01.jpg" style="float:right;width:220px" alt="editing menus">
 
 1. Open the app and connect the camera 
 2. Download clip and select **album** on the lower bar
