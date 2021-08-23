@@ -11,15 +11,19 @@ parent: Workshop Activities
 
 If you haven’t done so already, download the application. [Insta360 ONE X Download](https://www.insta360.com/download/insta360-onex){:target="_blank"}. Make sure you select your desired device (IOS, Android). This is a camera control application, the editing application is a seperate download. 
 
+When entering the app, there are various useful tutorials to help you also get started, here is one [example](http://onlinemanual.insta360.com/onex/en-us/startup/use?utm_source=app_onex&utm_medium=tutorial_page&utm_campaign=newusers_tutorial_en){:target="_blank"}
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8ZPmzuT46UU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Power on your 360 camera by pressing down on the bottom button (the display will turn on and become visible) 
-
-2. Download and then connect your camera to the application following the prompts (First remember to turn on bluetooth and connect to the same Wifi)               - Connect to the Wifi: IOS devices go to setting and select the cameras wifi (One X... for instance).
-3. Open The app and select the camera settings by clicking on the bottom center camera icon (in yellow). 
+ <img src="images/insta-video-smartphone-01.jpg" style="float:right;width:200px" alt="camera menu icon">
+2. Open The app and select the camera settings by clicking on the bottom center camera icon (in yellow). 
      - To change it to video mode, select the video icon (on the bottom bar)
 _Note the app automatically removes the selfie stick from the video_
 
+3. Download and then connect your camera to the application following the prompts (First remember to turn on bluetooth and connect to the same Wifi)               - Connect to the Wifi: IOS devices go to setting and select the cameras wifi (One X... for instance).
+ <img src="images/insta-video-smartphone-02.PNG" style="float:right;width:180px" alt=connecting to wifi menu>
+ 
 4. Insert SD card prior to attaching to accessories (monopod, tripod, selfie stick etc..)
 
 5. To change the quality of the video footage, select the settings button in the bottom right.
