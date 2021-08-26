@@ -13,6 +13,7 @@ DSC badges are awarded at the request of workshop participants after a DSC staff
 
 ### Earn an Informal Credential for INSTA 360 Camera
 
-- Criteria for the 360 Insta Camera here...
+- Successfully pass the manditory quiz for this workshop with a 100% grde.
+- Email a 360 degree still shot that you've taken with one of the Insta360 cameras from the library.
 
 [NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }
