@@ -10,7 +10,7 @@ In this exercise, you will practice video editing Insta 360 footage
 <img src="images/insta-video-editing-01.png" style="float:right;width:130px;" alt="dropbox download">
 1. If you haven’t done so already, download the application. [Insta360 Studio Download](https://www.insta360.com/download/insta360-onex){:target="_blank"} 
 _Note: make sure to select your device in the left side bar, then you can download the desktop application._
-2. Open Insta360 Studio, and drag these video files: (you must save and drag both files) [file 1](https://web.uvic.ca/~rmccue/dsc/VID_20180102_180111_10_005.insv) and [file 2](https://web.uvic.ca/~rmccue/dsc/VID_20180102_180111_00_005.insv) drag to the left hand side where it says drag and drop footage here.
+2. Open Insta360 Studio, and drag these video files: (you must save and drag both files) [file 1](https://web.uvic.ca/~rmccue/dsc/VID_20180102_180111_10_005.insv) and [file 2](https://web.uvic.ca/~rmccue/dsc/VID_20180102_180111_00_005.insv) drag to the left hand side where it says drag and drop footage here. **Please note once you have dragged your footage into the Insta 350 Studio 2021, it will only show one file (that is correct).**
 3. <img src="images/insta-video-editing-02.png" style="float:right;width:130px;height:130px;" alt="view window"> In the view window (bottom left hand side of video screen), you can play and preview the file using different angles (tiny planet, crystal ball, natural view, default and flat).
 
 **4. Free capture edit**<br>
@@ -42,7 +42,8 @@ _Note: there can be multiple speed changes in one video footage (you can do slow
 **8. Deep track**
   - Click on the deep tracking icon
   - Drag your mouse to the object you want to follow
-
+  - To remove deep tracking once applied, you will see a darker yellow part on your video timeline. Control and right click to delete. 
+  
 **9. Video Options:** are located on the right hand side of the Software panel
   - Flowstate stabilization: it is best to leave it on in most cases as it makes the video smooth, for this workshop leave the default but know you can change these settings.
  <img src="images/insta-video-editing-09.png" style="float:right" alt="exporting editing menu"> 
