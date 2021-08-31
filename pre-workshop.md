@@ -1,9 +1,4 @@
----
-layout: default
-title: 1- Workshop Activities
-nav_order: 2
-parent: Workshop Activities
----
+
 ## Pre-Workshop Videos & Instruction
 360 Cameras are amazing tools that can help us tell stories or share experiences in much more immersive and potentially impactful ways. 
 This workshop is primarily hands-on practice using a 360 camera and editing softwares. **Please watch the following videos and complete the quizzes embeded in the videos**:
