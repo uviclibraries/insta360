@@ -22,7 +22,7 @@ Using the Insta 360 for still shots can help you create a "choose your own adven
        1. Our first 360 camera was damaged and is now unusable 
           because of improper care of the dual camera lenses.
        2. Borrowers frequently have problems using basic 360 
-          camera functionality and desirable.
+          camera functionality.
 
 ## Learning objectives
 
@@ -33,7 +33,7 @@ At the end of this workshop, you will be able to:
 2. Record still images with the Insta360 on a tripod and selfie stick
 3. Transfer videos and images to a smartphone for editing
 4. Edit video in the Insta360 iOS & Android software, including:
-    - Trimming video Keyframes for orienting the default view for the 360 video
+    - Trimming video keyframes for orienting the default view for the 360 video
     - Select and track objects in the 360 video
     - Cover up tripod mount in Insta360 software
 
