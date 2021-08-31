@@ -71,4 +71,4 @@ _Note rotating your body will show the whole 360 view_
 _Nice job!_
 
 
-[NEXT STEP: Publishing Video](publishing-video.html){: .btn .btn-blue }
+[NEXT STEP: Quiz](quiz.html){: .btn .btn-blue }
